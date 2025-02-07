@@ -1,4 +1,4 @@
-#Threads
+#THREADS
 ***
 Este projeto simula o controle de dois semáforos de trânsito usando programação multithread e semáforos para sincronização.
 O objetivo é alternar entre os estados verde, amarelo e vermelho dos semáforos, de forma que um semáforo esteja verde enquanto o outro está vermelho, e vice-versa, seguindo o ciclo normal de um cruzamento de trânsito.
